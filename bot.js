@@ -13,8 +13,8 @@ function createBot() {
       username: config['bot-account']['username'],
       password: config['bot-account']['password'],
       auth: config['bot-account']['type'],
-      host: config.server.ip,
-      port: config.server.port,
+      host: config.server.jack34.aternos.me,
+      port: config.server.39373,
       version: config.server.version,
    });
 
